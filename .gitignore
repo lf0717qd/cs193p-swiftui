@@ -19,3 +19,4 @@ Package.resolved
 # Logs
 build.log
 *.log
+.dsh-tmp/
